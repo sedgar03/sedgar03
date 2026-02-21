@@ -5,7 +5,7 @@ Building practical products and research tools across bio + AI.
 ## Public Projects
 
 <!-- public-projects:start -->
-_Auto-generated from public repositories. No public projects yet._
+- [model-usage-hud](https://github.com/sedgar03/model-usage-hud) (stars: 0, updated: 2026-02-21)
 <!-- public-projects:end -->
 
 ## Notes
