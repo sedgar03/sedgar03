@@ -5,8 +5,8 @@ Building practical products and research tools across bio + AI.
 ## Public Projects
 
 <!-- public-projects:start -->
-- [Handsfree](https://github.com/sedgar03/Handsfree) - Handsfree voice layer (stars: 0, updated: 2026-04-11)
-- [model-usage-hud](https://github.com/sedgar03/model-usage-hud) (stars: 0, updated: 2026-04-09)
+- [Handsfree](https://github.com/sedgar03/Handsfree) - Handsfree voice layer (stars: 0, updated: 2026-04-17)
+- [model-usage-hud](https://github.com/sedgar03/model-usage-hud) (stars: 0, updated: 2026-04-16)
 <!-- public-projects:end -->
 
 ## Notes
